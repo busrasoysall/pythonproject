@@ -122,6 +122,7 @@ while True:
         y = kafa.ycor()
         kuyruklar[0].goto(x,y)
 
+
     move()
     time.sleep(hiz)
 
